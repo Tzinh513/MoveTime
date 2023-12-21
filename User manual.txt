@@ -1,0 +1,9 @@
+1 - Clone project
+2 - Open with Eclipse or...v.v
+3 - Maven update 
+4 - Create database name "MOVIEWEB" (SQL server)
+5 - Run on local
+
+Account check payment Paypal:
+- sb-zt3uy25921871@personal.example.com
+- pass: 2C%,cZt<
